@@ -4,7 +4,7 @@
 
 面向不同英语起点的学习者，把综合能力训练、考试路径和个性化复盘组织成可执行的学习系统。
 
-https://dcao1255-ctrl.github.io/english-study-hub/
+https://clarafdu.github.io/english-study-hub/
 
 ## 关于逐光英语
 
